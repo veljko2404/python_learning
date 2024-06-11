@@ -1,0 +1,1 @@
+#5. Napisati program koji za dati pattern, pronalazi najveci fajl cije ime odgovara tom patternu, i kopira ga u direktorijum pod nazivom 'najveci_fajl' (napraviti direktorijum ako ne postoji). Ako ima vise fajlova iste velicine, kopirati proizvoljni. Pattern je oblika *.txt, *.py, i sl. i dat je kao prvi i jedini argument programa.
